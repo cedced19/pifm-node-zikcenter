@@ -1,5 +1,6 @@
 {
     "version": 2,
     "freq": 108.5,
-    "url": "http://"
+    "url": "http://",
+    "api": "/api"
 }

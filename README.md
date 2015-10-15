@@ -27,7 +27,7 @@ node pifm-node.js
 
 ## Configuration
 
-You can change the frequency, the url, the version of the raspberry pi on `config.json`
+You can change the frequency, the url, the api path, the version of the raspberry pi on `config.json`
 
 See default options:
 
@@ -35,7 +35,8 @@ See default options:
 {
     "version": 2,
     "freq": 108.5,
-    "url": "http://website.com"
+    "url": "http://",
+    "api": "/api"
 }
 ```
 

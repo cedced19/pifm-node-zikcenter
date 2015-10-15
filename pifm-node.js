@@ -16,7 +16,7 @@ if (!isUrl(config.url)) {
     process.exit(1);
 }
 
-var list = require('./lib/ls')(config.url);
+var list = require('./lib/ls')(config);
 
 var set = function (zik) {
   lastzik = currentzik;
