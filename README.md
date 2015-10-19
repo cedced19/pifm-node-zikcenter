@@ -16,8 +16,8 @@ I am __not__ at all responsible for your actions.
 ## Installation
 
 ```bash
-git clone --depth=1 --branch=master https://github.com/cedced19/pifm-node
-cd ./pifm-node/
+git clone --depth=1 --branch=master https://github.com/cedced19/pifm-node-zikcenter
+cd ./pifm-node-zikcenter/
 npm install
 chmod 777 pifm-1 && chmod 777 pifm-2
 apt-get install sox
