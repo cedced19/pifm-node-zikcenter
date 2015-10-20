@@ -1,6 +1,6 @@
 {
   "name": "pifm-node-zikcenter",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A Node.js software to play musics on a FM radio in command line.",
   "main": "pifm-node.js",
   "dependencies": {
